@@ -13,3 +13,6 @@ A project demonstrating how to launch a virtual server (EC2) on AWS and turn it 
 * AWS EC2 & Linux (Amazon Linux 2)
 * Apache Web Server
 * Bash Scripting
+
+## Acknowledgments
+This project was developed with the assistance of AI tools (Gemini) for troubleshooting and generating documentation.
